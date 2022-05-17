@@ -1,0 +1,52 @@
+{
+    "items": [
+            {
+                "id": "0",
+                "img": "/static/img/market2c_images/recommend/1/1.jpg",
+                "name": "便携式车载牙签筒",
+                "price": "168"
+            },
+            {
+                "id": "1",
+                "img": "/static/img/market2c_images/recommend/2/2.jpg",
+                "name": "实心竹打火机",
+                "price": "128"
+            },
+            {
+                "id": "2",
+                "img": "/static/img/market2c_images/recommend/3/3.jpg",
+                "name": "简约笔筒",
+                "price": "1088"
+            },
+            {
+                "id": "3",
+                "img": "/static/img/market2c_images/recommend/4/4.jpg",
+                "name": "多功能托盘",
+                "price": "368"
+            },
+            {
+                "id": "4",
+                "img": "/static/img/market2c_images/recommend/5/5.jpg",
+                "name": "实心竹裁纸刀",
+                "price": "688"
+            },
+            {
+                "id": "5",
+                "img": "/static/img/market2c_images/recommend/6/6.jpg",
+                "name": "便携式随身茶叶筒",
+                "price": "268"
+            },
+            {
+                "id": "6",
+                "img": "/static/img/market2c_images/recommend/7/7.jpg",
+                "name": "老型珠手串",
+                "price": "48"
+            },
+            {
+                "id": "7",
+                "img": "/static/img/market2c_images/recommend/8/8.jpg",
+                "name": "实心竹戒尺",
+                "price": "599"
+            }
+        ]
+}

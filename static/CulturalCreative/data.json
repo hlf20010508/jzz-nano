@@ -1,0 +1,94 @@
+{
+    "itemsL": [
+        {
+            "name": "赣州福雷斯文化产业发展有限公司",
+            "icon": "static/img/CulturalCreative/itemL/1/icon.jpg",
+            "imgs": [
+                "static/img/CulturalCreative/itemL/1/1.jpeg",
+                "static/img/CulturalCreative/itemL/1/2.png",
+                "static/img/CulturalCreative/itemL/1/3.jpeg",
+                "static/img/CulturalCreative/itemL/1/4.png"
+            ]
+        },
+        {
+            "name": "河北匠心文化传媒有限公司",
+            "icon": "static/img/CulturalCreative/itemL/2/icon.jpg",
+            "imgs": [
+                "static/img/CulturalCreative/itemL/2/1.jpg",
+                "static/img/CulturalCreative/itemL/2/2.jpg",
+                "static/img/CulturalCreative/itemL/2/3.jpg",
+                "static/img/CulturalCreative/itemL/2/4.jpg"
+            ]
+        },
+        {
+            "name": "环辰映像文化传媒有限公司",
+            "icon": "static/img/CulturalCreative/itemL/3/icon.jpg",
+            "imgs": [
+                "static/img/CulturalCreative/itemL/3/1.jpg",
+                "static/img/CulturalCreative/itemL/3/2.jpg",
+                "static/img/CulturalCreative/itemL/3/3.jpg",
+                "static/img/CulturalCreative/itemL/3/4.jpg"
+            ]
+        },
+        {
+            "name": "安康市畅想网络科技有限公司",
+            "icon": "static/img/CulturalCreative/itemL/4/icon.jpg",
+            "imgs": [
+                "static/img/CulturalCreative/itemL/4/1.jpg",
+                "static/img/CulturalCreative/itemL/4/2.jpg",
+                "static/img/CulturalCreative/itemL/4/3.jpg",
+                "static/img/CulturalCreative/itemL/4/4.jpg"
+            ]
+        }
+    ],
+    "itemsR": [
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/1.jpg",
+            "name": "「久栖设计」三个孩子的阅读习惯从娃娃抓起，他们竟然把图书馆搬回了家",
+            "authorName": "北京久栖室内设计有限责任公司"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/2.jpg",
+            "name": "效果图",
+            "authorName": "23521719"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/3.jpg",
+            "name": "《图画展览会》钢琴演奏三维动画全流程",
+            "authorName": "广州维度动漫制作有限公司"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/4.jpg",
+            "name": "风车 SU模型",
+            "authorName": "秦 သုံးအရောင်"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/5.jpg",
+            "name": "天起世纪",
+            "authorName": "张耀宗--众信装饰"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/6.jpg",
+            "name": "仿实拍",
+            "authorName": "84561090"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/7.jpg",
+            "name": "2018年度部分作品",
+            "authorName": "44719510"
+        },
+        {
+            "url": "",
+            "img": "static/img/CulturalCreative/itemR/8.jpg",
+            "name": "香守",
+            "authorName": "北京视野云科技发展有限公司"
+        }
+    ]
+}

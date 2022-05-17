@@ -1,0 +1,14 @@
+{
+    "id": "0",
+    "imgs": [
+        "/static/img/market2c_images/recommend/1/1.jpg",
+        "/static/img/market2c_images/recommend/2/2.jpg",
+        "/static/img/market2c_images/recommend/3/3.jpg",
+        "/static/img/market2c_images/recommend/4/4.jpg",
+        "/static/img/market2c_images/recommend/5/5.jpg"
+    ],
+    "name": "便携式车载牙签筒",
+    "price": "168",
+    "location": "浙江省杭州市",
+    "unit": "个"
+}

@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+          "name": "寄予竹材 A2防火复合竹木饰面型材",
+          "time": "2022-02-18 19:34:24",
+          "img": "static/img/market2b_images/recommend/1.jpg",
+          "description": "联系400-630-1551",
+          "contact": "400-630-1551",
+          "unitPrice": "¥55/吨",
+          "location": "中国上海黄浦区瑞金一路8号中城大楼7层",
+          "company": "寄予竹材"
+        },
+        {
+          "name": "寄予竹材 平面集成竹编",
+          "time": "2022-02-18 19:34:22",
+          "img": "static/img/market2b_images/recommend/2.jpg",
+          "description": "联系400-630-1551",
+          "contact": "400-630-1551",
+          "unitPrice": "¥15/个",
+          "location": "中国上海黄浦区瑞金一路8号中城大楼7层",
+          "company": "寄予竹材"
+        },
+        {
+          "name": "摩索  方料，板材&刨切片，竹皮",
+          "time": "2022-02-18 19:34:24",
+          "img": "static/img/market2b_images/recommend/3.jpg",
+          "description": "MOSO® 竹皮具有各种尺寸,颜色和风格,可用不含甲醛的胶粘剂（E0 标准）,并经 FSC® 认证。MOSO® 竹皮主要供应 A 类产品（常规颜色）,并可在处理上尽量减少尺寸裁切的浪费。",
+          "contact": "400-005-5503",
+          "unitPrice": "¥25/平方米",
+          "location": "上海市闵行区联航路1818号红星国际大厦",
+          "company": "摩索"
+        },
+        {
+          "name": "摩索  方料，板材&刨切片，单板",
+          "time": "2022-02-18 19:34:24",
+          "img": "static/img/market2b_images/recommend/4.jpg",
+          "description": "MOSO® 单板主要用作板材贴面，将竹材压制贴在板材（比如 MDF 或刨花板）的两面。",
+          "contact": "400-005-5503",
+          "unitPrice": "¥63/平方米",
+          "location": "上海市闵行区联航路1818号红星国际大厦",
+          "company": "摩索"
+        }
+      ]
+}
