@@ -1,14 +1,22 @@
 from sanic import Sanic
-from sanic.response import text, html, file, json
+from sanic.response import json
 from sanic_jinja2 import SanicJinja2 as sj
 from ezmysql import ConnectionAsync
-import datetime
+import json as cjson
 
+try:
+    config_file = open('config.json', 'r')
+except:
+    print('未找到数据库配置文件，请先运行config.py')
+    print('python config.py')
+    exit()
+config = cjson.load(config_file)
+config_file.close()
+host = config['host']
+database = config['database']
+user = config['user']
+password = config['password']
 
-host = '124.223.224.49'
-database = 'jzz-nano'
-user = 'root'
-password = '1486922887'
 # create connection
 db = ConnectionAsync(
     host,
@@ -18,7 +26,7 @@ db = ConnectionAsync(
 )
 
 app=Sanic(__name__)
-tp=sj(app,pkg_name="app")
+tp=sj(app,pkg_name="run")
 app.static('/static', './static/')
 
 
